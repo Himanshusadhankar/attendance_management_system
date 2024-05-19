@@ -16,6 +16,8 @@ Export Options: Export reports in various formats such as PDF and Excel.
 4. User Management
 Profile Management: Users can update their personal information.
 Class and Student Management: Administrators can manage class schedules and student records.
+![Screenshot 2024-05-19 154249](https://github.com/Himanshusadhankar/attendance_management_system/assets/140011659/d87c936b-9ea2-4255-bddd-214ae9b25aae)
+
 
 Installation - 
 - open all files in folder in vs code (suitable compiler )
